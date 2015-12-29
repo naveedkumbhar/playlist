@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Kamelia.mp3</location>
+			<duration>282150</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/AKcent%20-%20French%20kiss.mp3</location>
+			<duration>240434</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/AKcent%20-%20I%20am%20sorry.mp3</location>
+			<duration>423888</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/AKcent%20-%20Thats%20my%20name.mp3</location>
+			<duration>301949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/AKcent%20-%20Turn%20arround%20the%20world.mp3</location>
+			<duration>254197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Andale.mp3</location>
+			<duration>232881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Kamelia.mp3</location>
+			<duration>282148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Love%20stoned.mp3</location>
+			<duration>243565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Mix.mp3</location>
+			<duration>966765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20My%20passion.mp3</location>
+			<duration>216189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akcent%20-%20Special%20Girl.mp3</location>
+			<duration>280267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akon%20-%20Beautiful.mp3</location>
+			<duration>238262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akon%20-%20Dont%20matter.mp3</location>
+			<duration>292336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akon%20-%20I%20wanna%20love%20you.mp3</location>
+			<duration>258455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akon%20-%20Locked%20up.mp3</location>
+			<duration>236277</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Akon%20ft.%20Bone%20thugs.mp3</location>
+			<duration>375405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Beautiful%20pain.mp3</location>
+			<duration>265221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Beautiful.mp3</location>
+			<duration>380525</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Busta%20Rhymes.mp3</location>
+			<duration>256339</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Chritina%20Perry%20Distance.mp3</location>
+			<duration>230217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Cinderalla%20man.mp3</location>
+			<duration>279144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Comfirtable%20nub%20cover.mp3</location>
+			<duration>113554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Dazzle.mp3</location>
+			<duration>276741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Eminem%20Till%20i%20collapse.mp3</location>
+			<duration>271751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Eminem%20love%20the%20way%20you%20lie.mp3</location>
+			<duration>266919</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Guts%20over%20fear.mp3</location>
+			<duration>332773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Kill%20you.mp3</location>
+			<duration>268225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Legacy.mp3</location>
+			<duration>296646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Love%20the%20way%20lie.mp3</location>
+			<duration>296515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Somebody%20that%20i%20used%20to%20know.mp3</location>
+			<duration>246177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Special%20girl.mp3</location>
+			<duration>262269</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/TIll%20i%20collapse.mp3</location>
+			<duration>271307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/The%20world%20is%20just%20an%20awesum.mp3</location>
+			<duration>60708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Whereever%20you%20will%20go.mp3</location>
+			<duration>89547</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/Withoutme.mp3</location>
+			<duration>300590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/never%20say%20never.mp3</location>
+			<duration>251219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/NaveedAhmed/Desktop/SoundCloud/random/who%20gone%20beat%20us.mp3</location>
+			<duration>309603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+	</extension>
+</playlist>
